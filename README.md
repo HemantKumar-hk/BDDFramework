@@ -11,6 +11,6 @@ Go to the project directory<br>
 cd BDDFramework
 
 Execute below command <br>
-'''bash <br>
-  mvn clean test <br>
-''' 
+```bash
+  mvn clean test
+```
