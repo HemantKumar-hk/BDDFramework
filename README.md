@@ -5,7 +5,7 @@ Precondition
 3. Git should be installed <br>
 
 Clone below repository using below command <br>
-git@github.com:HemantKumar-hk/BDDFramework.git
+git clone git@github.com:HemantKumar-hk/BDDFramework.git
 
 Go to the project directory<br>
 cd BDDFramework
